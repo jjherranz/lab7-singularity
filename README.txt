@@ -1,0 +1,2 @@
+Este repositorio tiene como propósito ser utilizado para la práctica lab_7-singularity de la asignatura 
+computación en la nube e infraestructuras de alto rendimiento del máster de bioinformática de la Universidad de Murcia
